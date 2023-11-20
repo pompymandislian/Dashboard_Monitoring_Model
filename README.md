@@ -53,26 +53,26 @@ Page-1:
 Input user biodata and generate predictions
 
  <p>
-<img align="center" src="image/page1.png" width="700" height="400" />
+<img align="center" src="image/page1.png" width="750" height="400" />
 </p>
 
 Page-2:
 Model monitoring, providing scores for each model
 
  <p>
-<img align="center" src="image/page2.png" width="700" height="400" />
+<img align="center" src="image/page2.png" width="750" height="400" />
 </p>
 
 Page-3:
 Exploratory Data Analysis (EDA) - Understanding characteristic data used in the model
  
  <p>
-<img align="center" src="image/page3.png" width="700" height="400" />
+<img align="center" src="image/page3.png" width="750" height="400" />
 </p>
 
 Page-4:
 User data - utilizing the information from Page-1 input to recommend suitable houses based on user preferences
  
  <p>
-<img align="center" src="image/page4.png" width="700" height="400" />
+<img align="center" src="image/page4.png" width="750" height="400" />
 </p>
