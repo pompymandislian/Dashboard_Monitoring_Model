@@ -1,0 +1,27 @@
+shape_columns_data:
+- 13
+
+int_columns: 
+ - price
+ - area
+
+object_columns:
+ - bedrooms
+ - bathrooms 
+ - stories
+ - mainroad
+ - guestroom
+ - basement
+ - hotwaterheating
+ - airconditioning
+ - parking
+ - prefarea
+ - furnishingstatus
+
+range_price:
+ - 1.750000e+06
+ - 1.330000e+07
+
+range_area:
+ - 1650.000000
+ - 16200.000000
