@@ -41,10 +41,11 @@ User Training:
 Provide user training to effectively use the dashboard and understand the model predictions.
 
 ## Additional Notes:
-Choose the model evaluation method (MAE) based on the project's specific needs, especially if the data is sensitive to outliers.
-Include thorough documentation for each step of the project, including model selection and interpretation of results.
-Ensure the dashboard provides a user-friendly and informative interface.
-I'm create sampling data and I obtain the Assumtion model not consistent because throught out threshold 10% 
+- The best model for this dataset is linear regression.
+- Choose the model evaluation method (MAE) based on the project's specific needs, especially if the data is sensitive to outliers.
+- Include comprehensive documentation for each step of the project, including model selection and interpretation of results.
+- Ensure the dashboard provides a user-friendly and informative interface.
+- I have created sample data, and I observed that the model assumptions are inconsistent as they exceed the 10% threshold.
 
 
 ## Dashboard on Streamlit:
