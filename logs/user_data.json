@@ -1,0 +1,50 @@
+{"name": "anton", "email": "ant@gmail.com", "region": "jakarta", "work": "akuntan", "salary": 20000.0, "Prediction": 108.83333333333333}
+{"name": "John", "email": "john@example.com", "region": "New York", "work": "Engineer", "salary": 75000.0, "Prediction": 120.83333333333333}
+{"name": "Emily", "email": "emily@example.com", "region": "Los Angeles", "work": "Designer", "salary": 60000.0, "Prediction": 95.83333333333333}
+{"name": "Daniel", "email": "daniel@example.com", "region": "Chicago", "work": "Manager", "salary": 80000.0, "Prediction": 130.83333333333333}
+{"name": "Sophia", "email": "sophia@example.com", "region": "San Francisco", "work": "Data Scientist", "salary": 90000.0, "Prediction": 145.83333333333333}
+{"name": "Michael", "email": "michael@example.com", "region": "Seattle", "work": "Software Developer", "salary": 85000.0, "Prediction": 137.83333333333333}
+{"name": "Olivia", "email": "olivia@example.com", "region": "Austin", "work": "Marketing Specialist", "salary": 70000.0, "Prediction": 112.83333333333333}
+{"name": "Ethan", "email": "ethan@example.com", "region": "Denver", "work": "Financial Analyst", "salary": 65000.0, "Prediction": 104.83333333333333}
+{"name": "Ava", "email": "ava@example.com", "region": "Miami", "work": "HR Coordinator", "salary": 55000.0, "Prediction": 88.83333333333333}
+{"name": "Noah", "email": "noah@example.com", "region": "Philadelphia", "work": "Sales Representative", "salary": 72000.0, "Prediction": 115.83333333333333}
+{"name": "Isabella", "email": "isabella@example.com", "region": "Atlanta", "work": "Customer Service", "salary": 58000.0, "Prediction": 92.83333333333333}
+{"name": "Liam", "email": "liam@example.com", "region": "Houston", "work": "Accountant", "salary": 68000.0, "Prediction": 108.83333333333333}
+{"name": "Emma", "email": "emma@example.com", "region": "Detroit", "work": "Graphic Designer", "salary": 63000.0, "Prediction": 100.83333333333333}
+{"name": "Mia", "email": "mia@example.com", "region": "Phoenix", "work": "IT Consultant", "salary": 82000.0, "Prediction": 131.83333333333333}
+{"name": "Lucas", "email": "lucas@example.com", "region": "Dallas", "work": "Project Manager", "salary": 88000.0, "Prediction": 140.83333333333333}
+{"name": "Aiden", "email": "aiden@example.com", "region": "Minneapolis", "work": "Operations Analyst", "salary": 76000.0, "Prediction": 121.83333333333333}
+{"name": "Lily", "email": "lily@example.com", "region": "Portland", "work": "Event Planner", "salary": 67000.0, "Prediction": 107.83333333333333}
+{"name": "Caden", "email": "caden@example.com", "region": "San Diego", "work": "Research Scientist", "salary": 95000.0, "Prediction": 152.83333333333333}
+{"name": "Chloe", "email": "chloe@example.com", "region": "Tampa", "work": "Public Relations", "salary": 71000.0, "Prediction": 113.83333333333333}
+{"name": "Jackson", "email": "jackson@example.com", "region": "Raleigh", "work": "Architect", "salary": 89000.0, "Prediction": 142.83333333333333}
+{"name": "Madison", "email": "madison@example.com", "region": "Las Vegas", "work": "Legal Assistant", "salary": 60000.0, "Prediction": 96.83333333333333}
+{"name": "Logan", "email": "logan@example.com", "region": "Orlando", "work": "UX/UI Designer", "salary": 73000.0, "Prediction": 116.83333333333333}
+{"name": "Grace", "email": "grace@example.com", "region": "Cleveland", "work": "Quality Assurance", "salary": 64000.0, "Prediction": 102.83333333333333}
+{"name": "Lucy", "email": "lucy@example.com", "region": "Charlotte", "work": "Social Media Manager", "salary": 78000.0, "Prediction": 124.83333333333333}
+{"name": "Elijah", "email": "elijah@example.com", "region": "Sacramento", "work": "Systems Analyst", "salary": 92000.0, "Prediction": 147.83333333333333}
+{"name": "Harper", "email": "harper@example.com", "region": "St. Louis", "work": "Supply Chain", "salary": 69000.0, "Prediction": 110.83333333333333}
+{"name": "Avery", "email": "avery@example.com", "region": "Pittsburgh", "work": "UX Researcher", "salary": 77000.0, "Prediction": 123.83333333333333}
+{"name": "Evelyn", "email": "evelyn@example.com", "region": "Kansas City", "work": "Financial Planner", "salary": 84000.0, "Prediction": 134.83333333333333}
+{"name": "Owen", "email": "owen@example.com", "region": "San Antonio", "work": "Network Engineer", "salary": 71000.0, "Prediction": 113.83333333333333}
+{"name": "Scarlett", "email": "scarlett@example.com", "region": "Nashville", "work": "Content Writer", "salary": 62000.0, "Prediction": 99.83333333333333}
+{"name": "Ethan", "email": "ethan@example.com", "region": "Denver", "work": "Financial Analyst", "salary": 65000.0, "Prediction": 104.83333333333333}
+{"name": "Ava", "email": "ava@example.com", "region": "Miami", "work": "HR Coordinator", "salary": 55000.0, "Prediction": 88.83333333333333}
+{"name": "Noah", "email": "noah@example.com", "region": "Philadelphia", "work": "Sales Representative", "salary": 72000.0, "Prediction" : 123.83333333333333}   
+{"name": "Sophie", "email": "sophie@example.com", "region": "Denver", "work": "Data Analyst", "salary": 62000.0, "Prediction": 99.83333333333333}
+{"name": "Mason", "email": "mason@example.com", "region": "Seattle", "work": "Software Engineer", "salary": 78000.0, "Prediction": 122.83333333333333}
+{"name": "Aria", "email": "aria@example.com", "region": "Chicago", "work": "UX/UI Designer", "salary": 67000.0, "Prediction": 108.83333333333333}
+{"name": "Carter", "email": "carter@example.com", "region": "Los Angeles", "work": "Marketing Manager", "salary": 85000.0, "Prediction": 136.83333333333333}
+{"name": "Hazel", "email": "hazel@example.com", "region": "New York", "work": "Financial Analyst", "salary": 72000.0, "Prediction": 114.83333333333333}
+{"name": "Oscar", "email": "oscar@example.com", "region": "San Francisco", "work": "Data Scientist", "salary": 92000.0, "Prediction": 148.83333333333333}
+{"name": "Zoe", "email": "zoe@example.com", "region": "Atlanta", "work": "HR Specialist", "salary": 60000.0, "Prediction": 96.83333333333333}
+{"name": "Ezra", "email": "ezra@example.com", "region": "Dallas", "work": "Project Manager", "salary": 87000.0, "Prediction": 139.83333333333333}
+{"name": "Mila", "email": "mila@example.com", "region": "Phoenix", "work": "UX Researcher", "salary": 69000.0, "Prediction": 110.83333333333333}
+{"name": "Sebastian", "email": "sebastian@example.com", "region": "Miami", "work": "Supply Chain Analyst", "salary": 80000.0, "Prediction": 130.83333333333333}
+{"name": "Aaliyah", "email": "aaliyah@example.com", "region": "Houston", "work": "Customer Service", "salary": 64000.0, "Prediction": 104.83333333333333}
+{"name": "Liam", "email": "liam2@example.com", "region": "Orlando", "work": "UX/UI Designer", "salary": 73000.0, "Prediction": 117.83333333333333}
+{"name": "Ava", "email": "ava2@example.com", "region": "Denver", "work": "Financial Planner", "salary": 81000.0, "Prediction": 132.83333333333333}
+{"name": "Noah", "email": "noah2@example.com", "region": "San Diego", "work": "Operations Manager", "salary": 94000.0, "Prediction": 155.83333333333333}
+{"name": "Isabella", "email": "isabella2@example.com", "region": "Portland", "work": "Content Writer", "salary": 66000.0, "Prediction": 106.83333333333333}
+{"name": "Lucas", "email": "lucas2@example.com", "region": "Minneapolis", "work": "Systems Analyst", "salary": 89000.0, "Prediction": 142.83333333333333}
+{"name": "Chloe", "email": "chloe2@example.com", "region": "Philadelphia", "work": "Legal Assistant", "salary": 58000.0, "Prediction": 93.83333333333333}
