@@ -48,7 +48,7 @@ Provide user training to effectively use the dashboard and understand the model 
 - I have created sample data, and I observed that the model assumptions are inconsistent as they exceed the 10% threshold.
 
 
-## Dashboard on Streamlit:
+## Dashboard on Streamlit (Not full Pages):
 Page-1:
 Input user biodata and generate predictions
 
