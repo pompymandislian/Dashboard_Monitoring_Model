@@ -6,7 +6,7 @@ People interested in buying or selling houses.
 Create a dashboard to monitor the performance of a model predicting house prices.
 
 # Project Steps:
-Data Collection from Database:
+## Data Collection from Database:
 
 Fetch house price data from a reliable source or database.
 ## Data Cleaning:
