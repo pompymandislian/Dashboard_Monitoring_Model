@@ -60,7 +60,7 @@ Page-2:
 Model monitoring, providing scores for each model
 
  <p>
-<img align="center" src="image/page2.png" width="750" height="400" />
+<img align="center" src="image/page.png" width="750" height="400" />
 </p>
 
 Page-3:
